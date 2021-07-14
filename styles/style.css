@@ -165,10 +165,6 @@ header{
     transform: scale(0.75);
     transition: 1s linear;
 }
-/*  location style  */
-.location{
-    margin-top: 70px;
-}
 /*  footer styles  */
 .footer-area{
     display: flex;

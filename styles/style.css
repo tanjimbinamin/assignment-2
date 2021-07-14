@@ -156,7 +156,8 @@ header{
 }
 .shop{
     border: 1px solid #e4d6d6;
-    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    box-shadow: 10px 4px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
 }
 .shop img{
     width:100%;
